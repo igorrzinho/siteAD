@@ -3,12 +3,12 @@
 ## Escolha da Paleta de Cores
 
 * Imagem escohida para extração de cores:
-![forza horizon 5]()
+![dragões](https://github.com/igorrzinho/siteAD/blob/main/paleta.jpg)
 
 * Site utilizado para extração da paleta de cores:
 https://color.adobe.com/pt/create/image  
-![paleta](paleta)
+![paleta](https://github.com/igorrzinho/siteAD/blob/main/PALETA.png)
 ___
 ## fonte
-* Fonte escolhida em: https://www.dafont.com/pt/  
+* Fonte escolhida em: https://fonts.google.com/specimen/Roboto  
 ![exenplo font]()
